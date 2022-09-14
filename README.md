@@ -14,7 +14,7 @@
   <img align="center" alt="Delta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Delta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Delta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="Delta-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/D7H5wORX4AAB44o.jpg">
+  <img align="left" alt="Delta-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/699092306447433743/1019599377553162300/download.png">
 </div>
 
 ##
