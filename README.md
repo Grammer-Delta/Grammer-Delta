@@ -1,7 +1,7 @@
 ### PT-BR: Oi! Meu nome é Felipe Moroni, estou aprendendo a programar e sou novo nesse mundo, espero conseguir alcansar meus objetivos
 ### ENG: Hey! My name is Felipe Moroni I'm learning to program and am new in this world. I hope can reach my goals
 - 🤖 Learning to program
-- ⚡ Fun fact: I've been studying for 2 months
+- ⚡ Fun fact: I've been studying for 84 hours
 - 🌎 Location: Brazil
 <div align="left">
   <a href="https://github.com/Grammer-Delta">
